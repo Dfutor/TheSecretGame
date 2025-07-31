@@ -2,7 +2,7 @@ let randomNumber;
 let intentos;
 let listaNumerosElegidos = [];
 let maxIntentos = 10;
-
+// pepito peres
 function asignarTextoElemento(elemento, texto){
   const parragraph = document.querySelector(elemento);
 
